@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ruby-emerald",
+    "name": "Ruby & Emerald Link Bracelet",
+    "category": "women",
+    "price": 399,
+    "image": "ruby-emerald.png",
+    "tag": "Signature edit",
+    "desc": "A vivid link bracelet with ruby-red and emerald-green accents, finished in a warm gold-tone setting."
+  },
+  {
+    "id": "signature-cable",
+    "name": "Signature Cable Bracelet",
+    "category": "men",
+    "price": 499,
+    "image": "signature-cable.png",
+    "tag": "Bestseller",
+    "desc": "A sculptural cable-inspired cuff with silver-tone and gold-tone detailing."
+  },
+  {
+    "id": "noir",
+    "name": "The Noir Bracelet",
+    "category": "men",
+    "price": 299,
+    "image": "noir-light.png",
+    "tag": "Everyday essential",
+    "desc": "A clean black-bead bracelet with polished spacer details. Strength in simplicity."
+  },
+  {
+    "id": "wakanda",
+    "name": "Wakanda Collection Bracelet",
+    "category": "men",
+    "price": 399,
+    "image": "wakanda-light.png",
+    "tag": "Limited edit",
+    "desc": "A bold black-bead design with metallic accents, inspired by strength, heritage and style."
+  },
+  {
+    "id": "dual-heart",
+    "name": "Dual Heart Bracelet",
+    "category": "women",
+    "price": 349,
+    "image": "dual-heart.png",
+    "tag": "Gift favourite",
+    "desc": "A playful two-tone heart design joined by an infinity-inspired centrepiece."
+  },
+  {
+    "id": "noir-dark",
+    "name": "Noir Bracelet \u2014 Dark Edit",
+    "category": "men",
+    "price": 299,
+    "image": "noir-dark.png",
+    "tag": "Dark edit",
+    "desc": "The Noir Bracelet presented in a dramatic dark finish."
+  },
+  {
+    "id": "wakanda-dark",
+    "name": "Wakanda Bracelet \u2014 Night Edit",
+    "category": "men",
+    "price": 399,
+    "image": "wakanda-dark.png",
+    "tag": "Collection piece",
+    "desc": "A dark statement presentation of the Wakanda-inspired bead bracelet."
+  }
+]
